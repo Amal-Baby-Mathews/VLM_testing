@@ -45,9 +45,9 @@ The interface is built using **Streamlit**, providing an easy-to-use web app for
 
 ### Streamlit UI Interface
 
-![Streamlit Upload Section](images/upload_section_screenshot.png)
-![Object Detection Example](images/object_detection_screenshot.png)
-![Video Frame Processing](images/video_frame_screenshot.png)
+![Streamlit Upload Section](images/upload_section.png)
+![Object Detection Example](images/object_bound_screenshot.png)
+![Video Frame Processing](images/object_detection_screenshot.png)
 
 ## Future Enhancements
 
