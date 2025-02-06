@@ -44,9 +44,11 @@ The interface is built using **Streamlit**, providing an easy-to-use web app for
 ## Screenshots
 
 ### Streamlit UI Interface
-
+##Upload
 ![Streamlit Upload Section](images/upload_section.png)
+##Object detection
 ![Object Detection Example](images/object_bound_screenshot.png)
+##Frame description
 ![Video Frame Processing](images/object_detection_screenshot.png)
 
 ## Future Enhancements
